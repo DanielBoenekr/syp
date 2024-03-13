@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/Save_your_plants.dir/main.cpp.o -o Save_your_plants 
